@@ -56,8 +56,8 @@ Incorporating external market factors like macroeconomic indicators and sentimen
 Although Linear Regression did not require extensive tuning, more complex models may benefit from automated hyperparameter tuning.
 
 ## Usage
-1 - Clone the Repository: git clone https://github.com/yourusername/stock-price-prediction.git
-2 - Install Dependencies: pip install -r requirements.txt
+- 1 - Clone the Repository: git clone https://github.com/Sudais-shah/stock-price-prediction.git
+- 2 - Install Dependencies: pip install -r requirements.txt
 **Run the Notebook:** Open Stock_Price_Prediction.ipynb in Jupyter Notebook and follow the documented steps.
 
 ## Deploy the Model: 
